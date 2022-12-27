@@ -230,6 +230,11 @@ xdotool
 xfce4-terminal
 zsh-autosuggestions
 zsh-syntax-highlighting
+wezterm
+kitty
+yadm
+xplr
+
 
 ##############
 #### Grub ####
@@ -325,6 +330,12 @@ yt-dlp
 ######################
 geany
 vim
+emacs
+neovim
+
+#programming languages
+fennel
+
 
 ######################
 #### AUR Packages ####
@@ -341,3 +352,5 @@ shell-color-scripts
 unimatrix-git
 xfce-polkit
 ytfzf-git
+tym
+
